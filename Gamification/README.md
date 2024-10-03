@@ -15,7 +15,7 @@ This project implements a simulator to gamify exercise, awarding users points an
 - `most_fun_activity_minute()`: Returns the activity that provides the most hedons per minute.
 
 ## Resources:
-This project was originally developed as part of the **ESC180 course** at the University of Toronto.
+This project was originally developed as part of the **ESC180: Introduction to Programming course** assignment at the University of Toronto.
 
 ## How to Run:
 ```bash
