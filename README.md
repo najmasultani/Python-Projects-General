@@ -1,2 +1,13 @@
 # Python-Projects-General
-This repository contains Python projects showcasing problem-solving and game development. Featured projects:  Gamification: Enhances user engagement with game-like elements. Gomoku: A strategic board game with AI decision-making. Synonyms: Approximates word pair similarity using computational analysis.
+
+This repository contains Python projects focused on problem-solving and AI. Projects include:
+
+### Gamification
+- Adds game-like elements to boost user engagement.
+
+### Gomoku
+- Classic strategy board game with AI.
+
+### Synonyms
+- Computes word similarity using semantic analysis.
+
