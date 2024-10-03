@@ -53,7 +53,7 @@ The goal is to compute the semantic similarity of a word with its potential syno
 - **Output**: A float representing the percentage of correctly guessed synonyms.
 
 ## Resources: 
-This project was originally developed as part of the **ESC180 course** at the University of Toronto
+This project was originally developed as part of the **ESC180: Introduction to Programming course** at the University of Toronto
 
 ## How to Run
 ### Clone the repository:
