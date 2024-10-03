@@ -18,6 +18,7 @@ This project implements a simulator to gamify exercise, awarding users points an
 This project was originally developed as part of the **ESC180 course** at the University of Toronto.
 
 ## How to Run:
+```bash
 # Clone the repository
 git clone https://github.com/najmasultani/Python-Projects-General
 
