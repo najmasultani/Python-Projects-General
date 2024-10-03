@@ -28,7 +28,7 @@ This project implements a simple AI engine for the classic board game Gomoku. Th
 3. The game alternates between the computer and the user until a player wins or the game ends in a draw.
 
 ## Resources: 
-This project was originally developed as part of the **ESC180: Introduction to Programming course** at the University of Toronto.
+This project was originally developed as part of the **ESC180: Introduction to Programming course** assignment at the University of Toronto.
 
 ## How to Run:
 ```bash
