@@ -52,14 +52,16 @@ The goal is to compute the semantic similarity of a word with its potential syno
   - `similarity_fn`: Function to compute similarity between vectors.
 - **Output**: A float representing the percentage of correctly guessed synonyms.
 
-## How to Run
+## Resources: 
+This project was originally developed as part of the **ESC180 course** at the University of Toronto
 
+## How to Run
 ### Clone the repository:
 
 ```bash
 git clone https://github.com/najmasultani/Python-Projects-General.git
 
-# Navigate to the Gamification folder
+# Navigate to the Semantic Similarity folder
 cd Python-Projects-General/Semantic Similarity
 
 # Run the game
