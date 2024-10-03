@@ -13,3 +13,14 @@ This project implements a simulator to gamify exercise, awarding users points an
 - `offer_star(activity)`: Offers a star to increase hedon points for the specified activity.
 - `perform_activity(activity, duration)`: Simulates performing the given activity for the specified duration.
 - `most_fun_activity_minute()`: Returns the activity that provides the most hedons per minute.
+
+## Resources:
+This project was originally developed as part of the **ESC180 course** at the University of Toronto.
+
+## How to Run:
+```bash
+# Clone the repository
+git clone <https://github.com/najmasultani/Python-Projects-General/edit/main/Gamification>
+
+# Run the game
+python gamify.py
