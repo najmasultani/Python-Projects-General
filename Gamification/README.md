@@ -18,9 +18,12 @@ This project implements a simulator to gamify exercise, awarding users points an
 This project was originally developed as part of the **ESC180 course** at the University of Toronto.
 
 ## How to Run:
-```bash
 # Clone the repository
-git clone <https://github.com/najmasultani/Python-Projects-General/edit/main/Gamification>
+git clone https://github.com/najmasultani/Python-Projects-General
+
+# Navigate to the Gamification folder
+cd Python-Projects-General/Gamification
 
 # Run the game
 python gamify.py
+
