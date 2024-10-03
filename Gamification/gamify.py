@@ -1,4 +1,4 @@
-# Project: Gamification
+# Project: Gamification of Exercise 
 # Description: 
 # This project simulates a system that encourages users to exercise by awarding "stars" 
 # for performing activities like running, carrying textbooks, and resting. 
